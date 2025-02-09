@@ -7,3 +7,5 @@
 [Rust Atomics and Locks](https://marabos.nl/atomics/)
 
 [Основы ИИ](https://www.youtube.com/watch?v=zC4-XMF_dNY)
+
+[Своя ОС](https://habr.com/ru/companies/ruvds/articles/874154/)
