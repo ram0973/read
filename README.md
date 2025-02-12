@@ -1,6 +1,7 @@
 # Что читать
 
 ## Rust
+[Бесплатное обучение фулстек-разработке веб-сервиса с нуля на TypeScript, Reaсt, Node.js](https://svag.group/ru/guide/dev-web-iserdmi/)
 
 [Хабр - Rust - что читать в 1 очередь](https://habr.com/ru/companies/bitrix/articles/878912/)
 
