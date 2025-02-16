@@ -12,3 +12,5 @@
 [Своя ОС](https://habr.com/ru/companies/ruvds/articles/874154/)
 
 [Проверки на NULL в Идее](https://habr.com/ru/articles/695004/)
+
+[Списки в Rust](https://rust-unofficial.github.io/too-many-lists/index.html)
