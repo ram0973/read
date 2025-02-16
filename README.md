@@ -16,3 +16,5 @@
 [Списки в Rust](https://rust-unofficial.github.io/too-many-lists/index.html)
 
 [Сетевой курс](https://stepik.org/course/227855/promo)
+
+[Татарский](https://www.youtube.com/watch?v=jrLunwiHgcA&list=PLgdgORGztTYd6mplOE71PYEBTblbGNWZM&index=25)
