@@ -19,4 +19,4 @@
 
 [Татарский](https://www.youtube.com/watch?v=jrLunwiHgcA&list=PLgdgORGztTYd6mplOE71PYEBTblbGNWZM&index=25)
 
-[JPA сущности - генерация из базы](https://habr.com/ru/companies/haulmont/articles/875934/)
+[Как за 15 минут превратить таблицы БД в JPA-сущности](https://habr.com/ru/companies/haulmont/articles/875934/)
