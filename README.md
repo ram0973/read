@@ -30,3 +30,5 @@
 [Clojure cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 
 [Avito курс по JS](https://avito.tech/education/javascript?utm_source=yandex&utm_medium=cpc&utm_campaign=117624931&utm_term=%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20javascript%20%D1%81%20%D0%BD%D1%83%D0%BB%D1%8F&utm_content=16798463142)
+
+[tsconfig](https://habr.com/ru/companies/timeweb/articles/877162/)
