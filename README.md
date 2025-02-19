@@ -22,3 +22,5 @@
 [Как за 15 минут превратить таблицы БД в JPA-сущности](https://habr.com/ru/companies/haulmont/articles/875934/)
 
 [Amplicode frontend](https://habr.com/ru/companies/haulmont/articles/876156/)
+
+[Hexlet - Erlang](https://ru.hexlet.io/courses/erlang_101)
