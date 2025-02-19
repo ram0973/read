@@ -26,3 +26,5 @@
 [Hexlet - Erlang](https://ru.hexlet.io/courses/erlang_101)
 
 [Clojure](https://grishaev.me/clojure-article/)
+
+[Clojure cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
