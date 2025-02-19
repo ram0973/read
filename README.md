@@ -24,3 +24,5 @@
 [Amplicode frontend](https://habr.com/ru/companies/haulmont/articles/876156/)
 
 [Hexlet - Erlang](https://ru.hexlet.io/courses/erlang_101)
+
+[Clojure](https://grishaev.me/clojure-article/)
