@@ -34,3 +34,6 @@
 [tsconfig](https://habr.com/ru/companies/timeweb/articles/877162/)
 
 [Java spring blog](https://github.com/hexlet-components/java-spring-blog)
+
+## Яндекс Образование
+[C++](https://education.yandex.ru/handbook/cpp)
