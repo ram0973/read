@@ -40,6 +40,7 @@
 [Машинное обучение](https://javarush.com/groups/posts/68435-videouikend-209-pishem-rekomendateljhnuju-sistemu-muzihki-na-java-uznaem-vse-pro-svjaznihy-spi)
 
 [Видео Java Docker](https://javarush.com/groups/posts/68418-videouikend-206-prevrajshaem-rekursiju-v-cikl-izuchaem-virtualjhnihe-potoki-praviljhno-konteyn)
+[JSpecify](https://habr.com/ru/companies/spring_aio/articles/838044/)
 
 ## Яндекс Образование
 [C++](https://education.yandex.ru/handbook/cpp)
