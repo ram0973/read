@@ -35,5 +35,8 @@
 
 [Java spring blog](https://github.com/hexlet-components/java-spring-blog)
 
+[Java Stepik](https://stepik.org/course/210937/promo)
+
 ## Яндекс Образование
 [C++](https://education.yandex.ru/handbook/cpp)
+
