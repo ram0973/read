@@ -48,7 +48,7 @@
 [Приложение на Go шаг за шагом](https://habr.com/ru/companies/yandex_praktikum/articles/854482/)
 
 [ASP NET CORE API](https://www.youtube.com/watch?v=NyWK3ZkSmbo)
-
+[Учебник C#](https://ulearn.me/course/basicprogramming/Kratkaya_spravka_pered_nachalom_69a2e121-e58f-4cd0-8221-7affb7dc796e)
 ## Яндекс Образование
 [C++](https://education.yandex.ru/handbook/cpp)
 
