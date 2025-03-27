@@ -53,6 +53,8 @@
 
 [Фитнес-трекер](https://vkvideo.ru/playlist/15313879_11)
 
+[Postgresql](https://neon.tech/postgresql/tutorial)
+
 ## Яндекс Образование
 [C++](https://education.yandex.ru/handbook/cpp)
 
