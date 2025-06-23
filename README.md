@@ -58,3 +58,5 @@
 ## Яндекс Образование
 [C++](https://education.yandex.ru/handbook/cpp)
 
+Linux
+https://www.aldpro.ru/professional/alse.html
